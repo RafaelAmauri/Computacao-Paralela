@@ -1,0 +1,140 @@
+Media: 108 segundos, ou 1 minuto e 48 segundos
+
+
+Tentativa 1
+
+Mining block 1...
+Block mined: 000000ed6d79168a487d8a3a2c01a5b6fd23ef607044ecbeebe0753f1fe5467a
+Mining block 2...
+Block mined: 000000a227cdec8763ad646f6081c70cd9269b0d22047d9ccc755e6bc43d7626
+Mining block 3...
+Block mined: 000000da2aa81452e5c540e0eb509327cc9c6430ea7f5824c9b2be116c526c5d
+
+real    0m58.889s
+user    0m58.866s
+sys     0m0.000s
+
+
+Tentativa 2
+
+Mining block 1...
+Block mined: 000000d1edfebb4c58362cf3a74a1c82dce34f308f84eca78be160de91c5fc66
+Mining block 2...
+Block mined: 0000007a10f1df57d4dadd1e74677ffde562af165a894ac4da81a49ec954ab0b
+Mining block 3...
+Block mined: 0000001ab6e4187ed9d4580a88d4c2ccc550902ad2bb2ffaf3adb5b24cf16695
+
+real    2m24.091s
+user    2m23.548s
+sys     0m0.089s
+
+
+Tentativa 3
+
+Mining block 1...
+Block mined: 000000485eedee3893a61b5c4ad0578b1087706a0eb87242c9b48b4733b69589
+Mining block 2...
+Block mined: 000000749e996003df880d1c7109bf27f2daa731971c99210ccc24e13f333945
+Mining block 3...
+Block mined: 0000007632dc210016eb99e626372ad97ea2cc23330a2f0e0b2a6aec9652b282
+
+real    2m19.103s
+user    2m18.994s
+sys     0m0.010s
+
+
+Tentativa 4
+
+Mining block 1...
+Block mined: 000000827a81cfa67a116bd67c59ce4dc287fafd7be9dac25b62e78edc247735
+Mining block 2...
+Block mined: 00000081b2e65df4bee91035f946f62ef5509914f3a06ee91a8802a9de44f224
+Mining block 3...
+Block mined: 000000aa2aae860b3d4186b2666b39ae6b7697e69ff2525cda2f8a4f815d919a
+
+real    2m4.106s
+user    2m4.048s
+sys     0m0.000s
+
+
+Tentativa 5
+
+Mining block 1...
+Block mined: 00000059a52ac9ba2eef4c3c1beb69786e8892a9280e7d76ccba8c9b70511b0f
+Mining block 2...
+Block mined: 0000004aa042c2694559b91ad7776991ece65aa54731980474194c5a1b3040ae
+Mining block 3...
+Block mined: 000000d567611b2e5205f868beb6cf0308cefa0a0d8bfa769256df4783e52432
+
+real    2m17.408s
+user    2m17.212s
+sys     0m0.060s
+
+
+Tentativa 6
+
+Mining block 1...
+Block mined: 0000007a971f295f52ffbdcf57bf4fa2506e961eb0516c17cf1a1eba88306d06
+Mining block 2...
+Block mined: 0000005635e3863996424bb2629fba93fb8d6171bbd4dc7f3f42ee40c813e728
+Mining block 3...
+Block mined: 000000c7795d318f92b00f2eb43bfb48f3c54256c5587510c1101819518a2d14
+
+real    0m59.493s
+user    0m59.242s
+sys     0m0.109s
+
+
+Tentativa 7
+
+Mining block 1...
+Block mined: 000000c98fc008291c7a9309f84323a83be100a42c3cb8247648e3f2811378f7
+Mining block 2...
+Block mined: 000000c829b624c5a0867194eeb0e9a282f9d5ab7ddd2d7aa44ec74366a43265
+Mining block 3...
+Block mined: 000000b9e5e8b133f5c3de7f07119928c47a64591e93f7098db8df1aa738cbc5
+
+real    1m25.476s
+user    1m25.426s
+sys     0m0.010s
+
+
+Tentativa 8
+
+Mining block 1...
+Block mined: 000000b4bf238f734697537acfea0bad1026e36fd70d66163f60c548f0fa1631
+Mining block 2...
+Block mined: 000000a52b57badde8dfeda89c3f9a2c21d58e4c3e4a810de08f08b26a98a2b1
+Mining block 3...
+Block mined: 000000050fc2231046d91d5a87ca004548a24f517b63319fd850d8a1c52b7611
+
+real    1m21.589s
+user    1m21.371s
+sys     0m0.000s
+
+Tentativa 9
+
+Mining block 1...
+Block mined: 000000f0b48e38c2206dfdbf0a199460c8125f65c5218ccfe947da286a29e763
+Mining block 2...
+Block mined: 000000f86cb3b1e916d46f96413d77d26c20e17351c67c894e14e58ae474708c
+Mining block 3...
+Block mined: 0000003d811d7b045a422dc5f5e40da029204d0500792d0344ebed4f5a49b476
+
+real    1m49.302s
+user    1m49.248s
+sys     0m0.000s
+
+Tentativa 10
+
+
+Mining block 1...
+Block mined: 0000008c1c5de8f4c936ada6da633e8f711fac1c33b516312d11ef389defa2d2
+Mining block 2...
+Block mined: 0000004370a4d20f09cc326e0420938461f727f433a3a7bb7c72be98cfb4aa50
+Mining block 3...
+Block mined: 000000a70c1f82d042b93c6e8f685836ac53d23b9ce8e3af49466fefcc26c825
+
+real    3m29.774s
+user    3m29.649s
+sys     0m0.000s
