@@ -1,3 +1,51 @@
+/*
+
+Tempo sequencial
+
+real    0m0,178s
+user    0m0,085s
+sys     0m0,092s
+
+real    0m0,164s
+user    0m0,073s
+sys     0m0,090s
+
+real    0m0,163s
+user    0m0,083s
+sys     0m0,080s
+
+real    0m0,167s
+user    0m0,062s
+sys     0m0,102s
+
+real    0m0,166s
+user    0m0,071s
+sys     0m0,094s
+
+Tempo paralelo
+
+real    0m0,219s
+user    0m0,030s
+sys     0m0,169s
+
+real    0m0,211s
+user    0m0,027s
+sys     0m0,163s
+
+real    0m0,214s
+user    0m0,027s
+sys     0m0,167s
+
+real    0m0,202s
+user    0m0,023s
+sys     0m0,160s
+
+real    0m0,229s
+user    0m0,036s
+sys     0m0,182s
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

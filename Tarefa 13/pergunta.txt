@@ -1,0 +1,38 @@
+Pergunta: é possível dividir uma section em outras sections?
+
+ 
+
+Imagine o seguinte código:
+
+ 
+
+#pragma omp parallel sections // starts a new team
+{
+    {
+        Work1();
+    }
+   
+    #pragma omp section
+    {
+        Work2();
+
+        #pragma omp parallel sections
+        {
+
+            #pragma omp section
+            {
+                Work3();
+            }
+
+            Work4();
+        }
+    }
+    #pragma omp section
+    {
+        Work5();
+    }
+}
+
+ 
+
+Ele é um código plausível de ser rodado, já que estamos criando uma section dentro de outra section? Por trás dos panos, o omp section cria "times" de threads para resolver o problema, e essas equipes podem se dividir infinitamente, criando outras threads e jobs, então seria possível criar uma section dentro da outra?

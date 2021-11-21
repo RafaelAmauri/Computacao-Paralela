@@ -1,0 +1,1 @@
+Pergunta: É preferível armazenar todos os dados que vão ser usados por uma função diretamente na GPU até o final da execução dela, ou o overhead de transferência da RAM para a VRAM é baixo o bastante para que repassar múltiplas vezes a mesma variável se torne uma coisa viável?

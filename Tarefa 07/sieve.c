@@ -102,28 +102,26 @@ int sieveOfEratosthenes(int n)
    int primes = 0; 
    bool *prime = (bool*) malloc((n+1)*sizeof(bool));
    int sqrt_n = sqrt(n);
-   
-   omp_set_num_threads(2);  
-   
+     
    memset(prime, true,(n+1)*sizeof(bool));
    
    int i, p;
    
-   #pragma omp parallel for
+   #pragma omp parallel for schedule(dynamic)
    for (p=2; p <= sqrt_n; p++)
    {
        // If prime[p] is not changed, then it is a prime
        if (prime[p] == true)
        {
          // Update all multiples of p
-         #pragma omp parallel for schedule(dynamic)
+         #pragma omp parallel for schedule(static)
 		   for(i=p*2; i<=n; i += p)
 	           prime[i] = false;
        }
    }
    
    // count prime numbers
-	#pragma omp parallel for reduction(+:primes)
+	#pragma omp parallel for reduction(+:primes)   
 	for (int p=2; p<=n; p++)
        if (prime[p])
          primes++;

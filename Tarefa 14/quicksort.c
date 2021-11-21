@@ -1,7 +1,61 @@
-    /* C implementation QuickSort from  http://w...content-available-to-author-only...s.org/quick-sort/ */
-    #include <stdio.h>
-    #include <stdlib.h>
-    #include <omp.h>
+/*
+Speedup = 1.21875
+
+
+Tempo sequencial
+
+real	0m3.925s
+user	0m3.887s
+sys	0m0.036s
+
+real	0m3.952s
+user	0m3.924s
+sys	0m0.024s
+
+real	0m3.930s
+user	0m3.898s
+sys	0m0.028s
+
+real	0m3.930s
+user	0m3.885s
+sys	0m0.040s
+
+real	0m3.931s
+user	0m3.894s
+sys	0m0.032s
+
+real	0m3.933s
+user	0m3.902s
+sys	0m0.028s
+
+Tempo paralelo
+
+real	0m3.216s
+user	0m4.382s
+sys	0m0.320s
+
+real	0m3.201s
+user	0m4.373s
+sys	0m0.315s
+
+real	0m3.209s
+user	0m4.436s
+sys	0m0.256s
+
+real	0m3.242s
+user	0m4.423s
+sys	0m0.295s
+
+real	0m3.207s
+user	0m4.405s
+sys	0m0.288s
+
+*/
+
+/* C implementation QuickSort from  http://w...content-available-to-author-only...s.org/quick-sort/ */
+    #include<stdio.h>
+    #include<stdlib.h>
+    #include<omp.h>
 
     // A utility function to swap two elements
     void swap(int* a, int* b)
@@ -93,7 +147,7 @@ void quickSort(int arr[], int low, int high, int aux)
     
       //omp_set_nested(4);
       quickSort(arr, 0, n-1, 0);
-      printf("Sorted array: \n");
-      printArray(arr, n);
+      //printf("Sorted array: \n");
+      //printArray(arr, n);
       return 0;
     }

@@ -1,0 +1,41 @@
+Algoritmo escolhido: Bubblesort
+
+void bubblesort(int arr[], int size)
+
+{
+
+ int i, j, aux;
+
+
+
+ for(i = 0; i < size-1; i++)
+
+ {
+
+ aux = i % 2;
+
+ #pragma omp parallel for
+
+ for(j = aux; j < size-1; j++) 
+
+ {
+
+ if(arr[j] > arr[j+1])
+
+ {
+
+ swap(&arr[j], &arr[j+1]);
+
+ }
+
+ }
+
+ }
+
+}
+
+ 
+
+Complexidade no modelo RAM: O(N^2)
+
+Complexidade no modelo PRAM: O(N)
