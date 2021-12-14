@@ -1,4 +1,4 @@
-## Programação Paralela - PP
+## Computação Paralela - CP
 
 Meus arquivos para a matéria de Computação Paralela (CP) da PUC Minas com o professor Henrique.
 
