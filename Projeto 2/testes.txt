@@ -1,0 +1,379 @@
+# Tempo sequencial
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 0000098555683ea4c79c5f4313c094b2b467cc0190fbd28b848ec5a5d02a9c3f
+Mining block 2...
+Block mined: 00000bfb5672df8190a778f233390e94d7dc55c29e9f39db618e4c337daaff7b
+Mining block 3...
+Block mined: 00000382523bb7597b589ff988665e158dfb70a500f2f3d4aaff63d542123240
+
+real    0m8,091s
+user    0m8,076s
+sys     0m0,003s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000002a5205bd751663d4dfdcf2bb2158c9bc6e10a4cf54045942e33d4088bc7
+Mining block 2...
+Block mined: 0000099fa74bb8d450e60d3e98c0f5ae01ae3f27e6fc82c3f2b76684f8c64611
+Mining block 3...
+Block mined: 000006fe77abdb660dd219f270774e2bd9ec730be5a307e3a610297fe5e3d7a4
+
+real    0m6,400s
+user    0m6,393s
+sys     0m0,000s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000004116d6ccf6bf4ae14d009fe74228e138a2017ca958fb4428f983ceddb7e
+Mining block 2...
+Block mined: 00000d6e56379d128b7f58c83fe96e381d6a101a3b9b9e6ae4a1cee0e955b85c
+Mining block 3...
+Block mined: 00000c4faf775820296e6916e037554beabf19f61de58578dda29971afcf2f77
+
+real    0m12,220s
+user    0m12,142s
+sys     0m0,033s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 0000040f76e39fa99416ae24828c4b66f995a87586432c3183358545f6e0b518
+Mining block 2...
+Block mined: 00000b0769da6593870c214967087cbf5b2bb80e74b041a00d386efa6d2e7770
+Mining block 3...
+Block mined: 00000505bd32ca320a3c5c0568e56f044dabdc075070c81addbf8e297d512ac4
+
+real    0m2,075s
+user    0m2,067s
+sys     0m0,000s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000007d31319a6545f3260e8ba4400f11a47919373e0a033375b7bfaea3394c7
+Mining block 2...
+Block mined: 0000079743beb83fdb72fadb244a8350321af7332da02722e2b65dbdc3216553
+Mining block 3...
+Block mined: 000008c9b3597ca48e6a13bce3584e632624a1e9f231173208059a9a8eb92ded
+
+real    0m6,740s
+user    0m6,684s
+sys     0m0,022s
+
+# Tempo paralela - CPU
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 0000008ef879552c815692bb73d5d7a0f290d2251430ef2941c1dc4f80ab3def
+Mining block 2...
+Block mined: 000001d56b1c0fda9a930859113fab791b75f0aa41b97cf2874afc81525f0268
+Mining block 3...
+Block mined: 00000c138e1e37ce991c5a0bab3e6c657c29bdb0fc149a3c4f16f8103b253e88
+
+real    0m4,518s
+user    0m32,662s
+sys     0m0,227s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 00000f0dc390f98f43b09df1eed0847e60d65e305773ae274b88e6dc5ab13ca5
+Mining block 2...
+Block mined: 000008c868b1932334daad3e9c75f5e6d4e4dc0302ffd4b78daa58f1e379ccd1
+Mining block 3...
+Block mined: 00000ee5691d96ddae7d4e8ed5967acc22caf5a5e58a73ae773c965ce16c048b
+
+real    0m29,056s
+user    3m28,140s
+sys     0m1,334s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 00000cbf81c967e8fe5f175c5ef5760c80a4ce540b1cd4a046e86b81097d2912
+Mining block 2...
+Block mined: 000001f116eff7f43ee289371a83cbcb9217b6e92529528642fd6fa6e92f946a
+Mining block 3...
+Block mined: 00000c0cf391ed645cdc2a9319be0d3d58758082395e4b32ae5d6d1f200c3b7d
+
+real    0m3,384s
+user    0m23,279s
+sys     0m0,244s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 00000f0199344b63202d2fdf40b35504c92fde5b6acd3cfa86b7a90b17ea7974
+Mining block 2...
+Block mined: 000008a0e4e3aab45f37009795e4aaa945e6f10d27bb00df7a1799e9db15c659
+Mining block 3...
+Block mined: 000009f01e0230a4dfb3abdb58c62c948cfa294cada4199af22ab6f9485b151f
+
+real    0m5,990s
+user    0m42,451s
+sys     0m0,289s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 00000bf674e53e1aea260d8ce63c85686985911f6c33ce9942cacb557892c4c9
+Mining block 2...
+Block mined: 0000025817ca13d08f2305873974937b30a8fedacf146186a4086b1bb28e993b
+Mining block 3...
+Block mined: 00000c00a4b0ac69c0ab05190eb3268d998832ef3d177fe41dedc61d38066bf9
+
+real    0m13,765s
+user    1m37,462s
+sys     0m1,021s
+
+# Tempo paralela - GPU
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 00000d163a0beeb9bde5ceb19e53557f968bbad63ef1e8b3a59e422430208596
+Mining block 2...
+Block mined: 000009ff255f677fc50ec06fe8bfde4bfb1ec5049e00bc41946ed74ed62a1cf9
+Mining block 3...
+Block mined: 0000035dc6d56bd7011008c91d946e7ef9ad7ad4677db2acd8e2abb86c7d41d9
+
+real    0m8,887s
+user    0m49,942s
+sys     0m0,356s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000008b50638ce44291236d2357dc8680feb269213d4acfc3b1671445dfc59ee
+Mining block 2...
+Block mined: 000008b90c3600537526f7eb40aa11dc7339a6d78bd3b171b6e2df843d28a64d
+Mining block 3...
+Block mined: 000000071c4e9f89b999f72f5a7bb3d265d29e1990f32ece2e6a5ac64c048668
+
+real    0m21,984s
+user    2m2,395s
+sys     0m0,902s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000007b9ed68d45066b6f576fa23cddf669a0f46312ce902bf8588fdfe17728e
+Mining block 2...
+Block mined: 00000f4ee0ebc457407792c2fb7523fa1319f64540098fee4c0e801b1b20b1d1
+Mining block 3...
+Block mined: 0000088eb0b88e021d59708a3e355980c7597f90602b3ab3d0ac18b3647ec90d
+
+real    0m17,014s
+user    1m35,883s
+sys     0m0,707s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000002d6b49c054a7ecec2ff69deef958c43a4b9c4aea5ca6ad8e1c55b766bd1
+Mining block 2...
+Block mined: 000009538f127af90b16d39db5e61be50f9118ea814a23fc7e1bd0cc32d6556b
+Mining block 3...
+Block mined: 0000054caa1090c0b37a46b096245bf864d10325e61a2a9535e359d8f8db3f48
+
+real    0m17,280s
+user    1m37,142s
+sys     0m0,769s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000008ad3d61ffbcb7cff34ce918e9ab2190413162bcd821da7787ad977c3b36
+Mining block 2...
+Block mined: 00000d4a891cf791cc8dbe3f807fcf8a60a84a47ee129412d9ec169622a99072
+Mining block 3...
+Block mined: 00000362915dfeaca6568477d080629c241c8763310267d75910fb45e186df5a
+
+real    0m44,381s
+user    4m12,536s
+sys     0m1,641s
+
+
+# Tempo paralela - Cuda
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 3f2972331348e25245916193d446f8d4e22ef2ec2216315f1c7a9c5bc3f2ca4c
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599650
+-----------Block 1-----------
+Nonce: nCHB2lkucyTkv20HmgKz�U
+Hash: a83b20445944c4db7de7d9bb0bb0e9684f9199d4907e6376e4f96baa2cbbb3c2
+Previous Hash: 3f2972331348e25245916193d446f8d4e22ef2ec2216315f1c7a9c5bc3f2ca4c
+Data: Block 1 Data
+Time: 1637599650
+-----------Block 2-----------
+Nonce: uEdujLO7Sx0AxM3f2D9q�U
+Hash: 5c791868e116737120235a3937dfd5aae9cd310f72ef8d95f0bbb00be8495e55
+Previous Hash: a83b20445944c4db7de7d9bb0bb0e9684f9199d4907e6376e4f96baa2cbbb3c2
+Data: Block 2 Data
+Time: 1637599650
+-----------Block 3-----------
+Nonce: 5taNQt9YSDZjxkxeBWtw�U
+Hash: a3a917fbb0df6cedd9490c487ef94dbeea18c9ed274422d5ea4482db057c5b2f
+Previous Hash: 5c791868e116737120235a3937dfd5aae9cd310f72ef8d95f0bbb00be8495e55
+Data: Block 3 Data
+Time: 1637599650
+
+real    0m1,440s
+user    0m1,196s
+sys     0m0,206s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 72e4ba34fbd38a2b267ca1d6e910b1792f958011a5bd54e5c9003bac2e43c216
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599668
+-----------Block 1-----------
+Nonce: BPfoI45YU52IVw0lwgfx�U
+Hash: 8e4ed333324752f06cef7e5cf8d5ba9fe1af828a15029af9c78598c059e1e1bd
+Previous Hash: 72e4ba34fbd38a2b267ca1d6e910b1792f958011a5bd54e5c9003bac2e43c216
+Data: Block 1 Data
+Time: 1637599668
+-----------Block 2-----------
+Nonce: X4GRZmUv4j2IB1sQyk4z�U
+Hash: a16d362d042c4bcc7a04c3f8ee433fa080a7d92e155f43a6d8fcb4adac3ae12d
+Previous Hash: 8e4ed333324752f06cef7e5cf8d5ba9fe1af828a15029af9c78598c059e1e1bd
+Data: Block 2 Data
+Time: 1637599669
+-----------Block 3-----------
+Nonce: pcasT6FPYE7Tai7ryFQ7�U
+Hash: dc848dc1e407c54d7df2be3c1add2738e0cd5372b2df86f5782fba35c6db9210
+Previous Hash: a16d362d042c4bcc7a04c3f8ee433fa080a7d92e155f43a6d8fcb4adac3ae12d
+Data: Block 3 Data
+Time: 1637599669
+
+real    0m0,909s
+user    0m0,671s
+sys     0m0,196s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 019bb0adce4a2f84ff264e74e5ec4412a7d0e72b5a1b230117592b769035d5e6
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599684
+-----------Block 1-----------
+Nonce: TQrWeD5rdQ8Km8MJ6Jni�U
+Hash: 2a44d60ae9b79e9851c8aa396de9f9159be59ee3bd3f05896fc069896608d0e3
+Previous Hash: 019bb0adce4a2f84ff264e74e5ec4412a7d0e72b5a1b230117592b769035d5e6
+Data: Block 1 Data
+Time: 1637599684
+-----------Block 2-----------
+Nonce: sCjuLsbsXE5nDEVN4PZN�U
+Hash: 3cd402f4438ab3fb176d215e3f9b1e47ace6cbfd98bf551bd5180e61596786f0
+Previous Hash: 2a44d60ae9b79e9851c8aa396de9f9159be59ee3bd3f05896fc069896608d0e3
+Data: Block 2 Data
+Time: 1637599684
+-----------Block 3-----------
+Nonce: HSujAORVHDwwTD12hVXi�U
+Hash: a1d292f1eb3e278609a20cee61c33d4954622a762a851b3f8f4f4e5573f4c5d4
+Previous Hash: 3cd402f4438ab3fb176d215e3f9b1e47ace6cbfd98bf551bd5180e61596786f0
+Data: Block 3 Data
+Time: 1637599684
+
+real    0m0,704s
+user    0m0,469s
+sys     0m0,201s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 7a84aea3d72ab8c3ad4fa22ea3f2f9b1d35572ef6dfab41d6251b2638c6f8a85
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599695
+-----------Block 1-----------
+Nonce: h3wXw8sGMBBeTQ9r6NhK�U
+Hash: 5d19a3030bc647f91211d4a88bc5908f09385caa0c3dbab39d56d754edae0a4f
+Previous Hash: 7a84aea3d72ab8c3ad4fa22ea3f2f9b1d35572ef6dfab41d6251b2638c6f8a85
+Data: Block 1 Data
+Time: 1637599695
+-----------Block 2-----------
+Nonce: 0pMY0O2yOSva1yotveIc�U
+Hash: 5afd900d74a0f16bdaef06d9b9365343c3df1a40ec562bf13679e225448ce6e7
+Previous Hash: 5d19a3030bc647f91211d4a88bc5908f09385caa0c3dbab39d56d754edae0a4f
+Data: Block 2 Data
+Time: 1637599696
+-----------Block 3-----------
+Nonce: 11eBlPDm58UnNSppKLgk�U
+Hash: a07511624ef530872975e0c1681731207c312d98ded0e8f136721390d3a9671a
+Previous Hash: 5afd900d74a0f16bdaef06d9b9365343c3df1a40ec562bf13679e225448ce6e7
+Data: Block 3 Data
+Time: 1637599696
+
+real    0m0,658s
+user    0m0,411s
+sys     0m0,215s
+
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 9661f79160ae2b42ac80b7236729d4173e45d5241b86e645c68ee5b0c9e9a0dd
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599706
+-----------Block 1-----------
+Nonce: Cq2rFrVwiaNekZY8mpGX�U
+Hash: 5bb7ba8de73b9609065ebf373c35bf3d85690e2bb47dbe37be2b75cff21c0638
+Previous Hash: 9661f79160ae2b42ac80b7236729d4173e45d5241b86e645c68ee5b0c9e9a0dd
+Data: Block 1 Data
+Time: 1637599706
+-----------Block 2-----------
+Nonce: n5RH40fjyDIued3kmFyI�U
+Hash: 69a3e9e01d7b2c4597c70255d3aab180029e025c2bba12a6ee89074962c3aeeb
+Previous Hash: 5bb7ba8de73b9609065ebf373c35bf3d85690e2bb47dbe37be2b75cff21c0638
+Data: Block 2 Data
+Time: 1637599706
+-----------Block 3-----------
+Nonce: hjdoAJRGcNFapwMkXL5t�U
+Hash: 053933565e3750dd6122af0295e9d1b945797f5f3a83015df37a943a59fd43cd
+Previous Hash: 69a3e9e01d7b2c4597c70255d3aab180029e025c2bba12a6ee89074962c3aeeb
+Data: Block 3 Data
+Time: 1637599707
+
+real    0m0,654s
+user    0m0,433s
+sys     0m0,188s
